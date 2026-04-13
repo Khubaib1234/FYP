@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Florida International University",
+            "start_year": 2005,
+            "end_year": 2005
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Information Technology Technician I",
+            "company": "Company Name",
+            "start_year": 2007,
+            "end_year": null,
+            "description": "Migrating and managing user accounts in Microsoft Office 365 and Exchange Online. Creating and managing virtual machines for systems such as domain controllers and Active Directory Federation Services (ADFS) in Microsoft Windows Azure (IaaS)."
+        },
+        {
+            "job_title": "Information Services Liaison",
+            "company": "Company Name",
+            "start_year": 2005,
+            "end_year": 2007,
+            "description": "Troubleshooting hardware and software problems over the telephone and through remote PC administration software. Installing, configuring, and supporting McAfee anti-virus software on desktops."
+        }
+    ],
+    "skills": [
+        "Active Directory",
+        "Azure",
+        "anti-virus",
+        "Backup Exec",
+        "backup",
+        "Bash",
+        "batch",
+        "Cacti",
+        "Cisco ASA",
+        "databases",
+        "DHCP",
+        "DNS",
+        "documentation",
+        "DataDomain",
+        "EMC",
+        "Enterprise Vault",
+        "ePO",
+        "file servers",
+        "firewall",
+        "GPO",
+        "HTML",
+        "IIS",
+        "ISA",
+        "LDAP",
+        "Linux",
+        "McAfee",
+        "Exchange",
+        "Microsoft Office",
+        "Microsoft Windows",
+        "security",
+        "policies",
+        "PowerShell",
+        "programming",
+        "proxy server",
+        "servers",
+        "scripts",
+        "SolarWinds",
+        "SQL",
+        "StorSimple",
+        "troubleshooting",
+        "TMG",
+        "Ubuntu",
+        "Visual Basic Script",
+        "VBS",
+        "Veritas Netbackup",
+        "VPN",
+        "VRanger",
+        "Veeam",
+        "VMWare",
+        "VDI",
+        "virtual machine",
+        "NMap",
+        "ZenMap"
+    ],
+    "projects": [],
+    "certifications": [
+        "CompTIA Network - 2014"
+    ]
+}

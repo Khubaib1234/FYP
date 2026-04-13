@@ -1,0 +1,1 @@
+name : Khubaib Ahmed Jamil , email : khubaibahmedjamil@gmail.com , phone : 0334-2212963 , education : degree : Bachelors in Computer Science , institution : FAST National University of Computer and Emerging Sciences , start year : 2022, end year : null , experience : , skills : C , Assembly , Python , HTML , CSS , MySQL , OracleSQL , MongoDB , Machine Learning

@@ -1,0 +1,42 @@
+{
+    "name": "Khubaib Ahmed Jamil",
+    "email": "khubaibahmedjamil@gmail.com",
+    "phone": "0334-2212963",
+    "education": [
+        {
+            "degree": "Bachelors in Computer Science",
+            "institution": "FAST National University of Computer and Emerging Sciences",
+            "start_year": 2022,
+            "end_year": null
+        }
+    ],
+    "experience": [],
+    "skills": [
+        "C",
+        "Assembly",
+        "Python",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "OracleSQL",
+        "MongoDB",
+        "Machine Learning",
+        "Data Science"
+    ],
+    "projects": [
+        "Online Shopping Management System",
+        "Movie Recommender System",
+        "Snake and Ladders Game on Assembly",
+        "Ice-cream Parlor Problem",
+        "Email Spam Classifier"
+    ],
+    "certifications": [
+        "Pseudo wars Procom competition (02/2023)",
+        "Pseudo wars Procom competition (02/2024)",
+        "Dean's list certificate for achieving 3.5 GPA (spring 2023)",
+        "Dean's list certificate for achieving 3.5 GPA (spring 2024)",
+        "Participant - Coder's Cup (2023)",
+        "Winners - Coder's Cup (2024)",
+        "Rubik's Cube competition"
+    ]
+}

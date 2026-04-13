@@ -1,0 +1,68 @@
+Khubaib Ahmed Jamil khubaibahmedjamil@gmail.com
+CS Student 0334-2212963
+Passionate about data science, machine learning, and AI, I thrive on linkedin.com/in/khubaib-ahmedjamil-53535b265
+analyzing data, building predictive models, and developing AI-driven
+solutions to solve real-world problems.
+EDUCATION SKILLS
+Bachelors in Computer Science
+C C Assembly Python HTML CSS
+FAST National University of Computer and
+Emerging Sciences
+MySQL OracleSQL MongoDB
+08/2022 - Present,
+Machine Learning Data Science
+PERSONAL PROJECTS
+Online Shopping Management System FAST NUCES CERTIFICATES
+Designed and developed a web-based online store using C 
+with a user-friendly interface for seamless shopping. Pseudo wars Procom competition (02/2023)
+Implemented secure user authentication and role-based access
+control to protect customer data.
+Pseudo wars Procom competition (02/2024)
+Integrated a dynamic product catalog with search, filtering, and
+recommendation features for better user experience.
+Rubik s Cube competition
+Developed a secure payment gateway integration to facilitate
+smooth and reliable transactions.
+Dean s list certificate for achieving 3.5 GPA (spring
+Movie Recommender System 2023)
+Built a Movie Recommendation System leveraging collaborative
+filtering and content-based filtering techniques.
+Dean s list certificate for achieving 3.5 GPA (spring
+Processed user ratings and movie metadata to generate 2024)
+personalized suggestions using similarity measures.
+Implemented models such as K-Nearest Neighbors and Matrix
+Factorization (e.g., SVD) for accurate predictions. Participant - Coder s Cup (2023)
+Evaluated system performance using precision, recall, and
+RMSE to ensure relevance and effectiveness of Winners - Coder s Cup (2024)
+recommendations.
+Snake and Ladders Game on Assembly FAST NUCES
+Designed and implemented a Snake and Ladders game in x86
+LANGUAGES
+assembly, utilizing the Irvine32 library for efficient
+input/output operations.
+Urdu English
+Programmed game mechanics such as dice rolls, ladders, and
+snakes, with real time board updates and player progression. Native or Bilingual Proficiency Professional Working Proficiency
+Developed an interactive console-based user interface,
+providing clear prompts, game status, and player positions.
+Implemented file handling functionality to log game results,
+demonstrating practical knowledge of file operations in INTERESTS
+assembly language.
+Football Cricket Gaming Movies
+Ice-cream Parlor Problem FAST NUCES
+Designed and Implemented a GUI based Ice-cream Parlor
+Problem in which each person in the queue goes through steps Programming
+before getting ice cream.
+Used array and semaphores to manage the queue of the person
+of that no one breaks the queue.
+Stack used: C SFML
+Email Spam Classifier FAST NUCES
+Developed a Machine Learning model to classify emails as spam
+or non-spam using text preprocessing and feature extraction
+techniques.
+Implemented and compared algorithms like Naive Bayes, SVM,
+and Logistic Regression for optimal performance.
+Achieved high accuracy through effective vectorization using
+TF-IDF and rigorous model evaluation.
+Visualized results using confusion matrix and ROC curve to
+interpret and validate model effectiveness.

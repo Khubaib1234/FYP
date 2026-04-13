@@ -1,0 +1,23 @@
+You are an HR psychologist. Infer hidden behavioral traits from the resume.
+Rate each trait between 0 and 1.
+
+Traits:
+- leadership
+- communication
+- analytical_thinking
+- ownership
+- problem_solving
+- attention_to_detail
+
+Resume:
+{resume}
+
+Return ONLY JSON:
+{
+ "leadership": float,
+ "communication": float,
+ "analytical_thinking": float,
+ "ownership": float,
+ "problem_solving": float,
+ "attention_to_detail": float
+}

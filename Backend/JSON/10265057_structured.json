@@ -1,0 +1,101 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "education": [
+        {
+            "degree": "M.S",
+            "institution": "Purdue University",
+            "start_year": "",
+            "end_year": "2013"
+        },
+        {
+            "degree": "B.S",
+            "institution": "",
+            "start_year": "",
+            "end_year": "2011"
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Working RF Systems Engineer",
+            "company": "Company Name",
+            "start_year": "2014",
+            "end_year": "",
+            "description": "Multidisciplinary background: RF hardware designs, manufacturing operations and data analyst. Experienced in developing hardware s DFM procedures, checklists and requirements to subcontractors Perform EVT, DVT, PVT verifications and utilize FA process to drive root cause from system to unit level Team leader on multiple end-to-end technical project design, development, testing and validation Manage Test/Production readiness reviews and drives quality requirement for post-ramp qualification Ability to manage multiple projects simultaneously, self-starter with innovation and sharp attention to details"
+        },
+        {
+            "job_title": "System Data Analyst",
+            "company": "Company Name",
+            "start_year": "2011",
+            "end_year": "2013",
+            "description": "Prioritize and extract big data from Purdue University s SQL database and maintain its accuracy and completeness - Develop and implement data collection systems strategies that optimize statistical efficiency and data quality - Data manipulation language SQL commands and utilize statistical tools including Excel, SAS, and SPSS."
+        },
+        {
+            "job_title": "Electrical/Validation Engineer",
+            "company": "Company Name",
+            "start_year": "2011",
+            "end_year": "2011",
+            "description": "Develop and maintain data requirement for PCBA EVT, DVT, and PVT assembly for touch-pads - Design and implement automated test for sensitivity, packrat, hovering, profiles, ripple, GSM, EMI, and ESD - Monitor manufacturer IC packaging test yields and field return failure data to identify root cause - Develop in-depth reliability testing procedures: storage, thermal stock, drop and tap tests - Perform debug and troubleshooting of product in house and at contract manufacturer site for support - Contribute in manufacturing diagnostic reviews to improve overall debug process more efficiently and effectively - Support internal and external customer related to lab data collection and verification of an application issue."
+        }
+    ],
+    "skills": [
+        "big data",
+        "C",
+        "C++",
+        "charts",
+        "Circuit design",
+        "hardware",
+        "Data acquisition",
+        "data analyst",
+        "data collection",
+        "data mining",
+        "databases",
+        "database",
+        "dBm",
+        "DTI",
+        "design software",
+        "documentation",
+        "functional",
+        "GSM",
+        "innovation",
+        "Java",
+        "LabView",
+        "Team leader",
+        "Logic Analyzer",
+        "Mac",
+        "manufacturing processes",
+        "Matlab",
+        "Excel",
+        "Microsoft office",
+        "Office",
+        "Microwave",
+        "Radar",
+        "NCs",
+        "Network",
+        "dB",
+        "packaging",
+        "pivot tables",
+        "Programming",
+        "project design",
+        "proposals",
+        "Publication",
+        "Python",
+        "quality",
+        "requirement",
+        "research",
+        "SAS",
+        "self-starter",
+        "Spectrum analyzer",
+        "SPSS",
+        "SQL",
+        "SSL",
+        "statistics",
+        "surveys",
+        "system design",
+        "troubleshooting",
+        "validation"
+    ],
+    "projects": [],
+    "certifications": []
+}

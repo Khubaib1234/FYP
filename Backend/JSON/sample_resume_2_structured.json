@@ -1,0 +1,176 @@
+{
+    "name": "",
+    "email": "",
+    "phone": "",
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Elk Creek High School",
+            "start_year": 0,
+            "end_year": 1985
+        },
+        {
+            "degree": "NEEC Building Operator Certification",
+            "institution": "Butte College",
+            "start_year": 0,
+            "end_year": 2003
+        },
+        {
+            "degree": "Business Management",
+            "institution": "Yuba Community College",
+            "start_year": 0,
+            "end_year": 2004
+        },
+        {
+            "degree": "Certificate of Completion",
+            "institution": "AIB - HACCP Online Course",
+            "start_year": 0,
+            "end_year": 2015
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Engineering Services Manager",
+            "company": "Company Name",
+            "start_year": 2013,
+            "end_year": 2015,
+            "description": "Accountable for maintaining the efficiency and effectiveness of all production manufacturing processes required to manufacture a high quality product in a repeatable and cost effective manner and provide overall customer satisfaction."
+        },
+        {
+            "job_title": "Electrical Superintendent",
+            "company": "Company Name",
+            "start_year": 2008,
+            "end_year": 2013,
+            "description": "Primary responsibilities include supervising and coordinating all electrical and instrumentation activities."
+        },
+        {
+            "job_title": "Project Manager",
+            "company": "Company Name",
+            "start_year": 2005,
+            "end_year": 2008,
+            "description": "Responsible to review and interpret proposed designs, drawings, and specifications for suitability and initiate revisions where appropriate."
+        },
+        {
+            "job_title": "Facility Supervisor",
+            "company": "Company Name",
+            "start_year": 2004,
+            "end_year": 2005,
+            "description": "Managed the activities of 6 maintenance personnel."
+        },
+        {
+            "job_title": "Maintenance Manager/Safety Environmental Manager",
+            "company": "Company Name",
+            "start_year": 1996,
+            "end_year": 2004,
+            "description": "Managed the operations and activities of plant maintenance and engineering personnel."
+        },
+        {
+            "job_title": "Maintenance Technician",
+            "company": "Company Name",
+            "start_year": 1995,
+            "end_year": 1995,
+            "description": "Performed routine electrical and mechanical maintenance and emergency repairs on automated PLC controlled conveyors, pallet wrappers, burn-in towers and other equipment used in the assembly of Apple computers."
+        },
+        {
+            "job_title": "Electrician",
+            "company": "Company Name",
+            "start_year": 1991,
+            "end_year": 1995,
+            "description": "Responsible for repairing and maintaining plastic extrusion equipment in the production of plastic bags and stretch pallet wrap."
+        },
+        {
+            "job_title": "Microwave Communications Technician",
+            "company": "Company Name",
+            "start_year": 1987,
+            "end_year": 1991,
+            "description": "Worked for a rebuild facility doing repairs and overhauls of a wide variety of communications equipment."
+        }
+    ],
+    "skills": [
+        "accounting",
+        "Apple computers",
+        "asset management",
+        "automation",
+        "basic",
+        "blueprints",
+        "budgets",
+        "C",
+        "CA",
+        "hardware",
+        "concept",
+        "contracts",
+        "client",
+        "database",
+        "DC",
+        "delivery",
+        "design and construction",
+        "directing",
+        "Electrical systems",
+        "electronics",
+        "equipment installation",
+        "filling",
+        "Fire protection",
+        "Food safety",
+        "Hammer",
+        "HVAC",
+        "instruction",
+        "inventory management",
+        "inventory control",
+        "Labor relations",
+        "layout",
+        "logic",
+        "Logistics",
+        "machinery",
+        "maintenance schedules",
+        "manufacturing processes",
+        "materials",
+        "Mechanical",
+        "Microsoft Access",
+        "Microsoft NT server",
+        "Microsoft Windows NT Server",
+        "microwave",
+        "NEC",
+        "network",
+        "networks",
+        "Novell",
+        "Personnel",
+        "PLC programming",
+        "PLC",
+        "plumbing",
+        "Power distribution",
+        "process control",
+        "process engineering",
+        "Programming",
+        "quality",
+        "quality control",
+        "radio",
+        "Record keeping",
+        "repairs",
+        "repairing",
+        "Safety",
+        "safety codes",
+        "SCADA",
+        "Siemens PLC",
+        "staffing",
+        "supervising",
+        "Supervision",
+        "surveys",
+        "technical support",
+        "phones",
+        "transmission",
+        "troubleshooting",
+        "UHF",
+        "utilities",
+        "validation",
+        "VHF",
+        "View",
+        "Water quality",
+        "Wonderware",
+        "written"
+    ],
+    "projects": [],
+    "certifications": [
+        "NEEC Building Operator Certification",
+        "Certificate of Completion"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "Saad Brohi",
+    "email": "Saadbrohi008@gmail.com",
+    "phone": "92-3332197912",
+    "education": [
+        {
+            "degree": "Bachelors in Computer Science",
+            "institution": "National University of Computer and Emerging Sciences (FAST-NUCES)",
+            "start_year": 2022,
+            "end_year": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "AI Intern",
+            "company": "Nexium",
+            "start_year": 2025,
+            "end_year": 2025,
+            "description": "Developed end-to-end AI applications using LLMs integrated with LangChain and FAISS. Designed RAG-based chat workflows, modeled on QueryVerse, with API support for structured query handling. Implemented persona-based memory systems and reasoning using lightweight LLMs. Deployed updates via Docker in Agile sprint cycles."
+        },
+        {
+            "job_title": "Machine Learning Intern",
+            "company": "Elevvo Pathways",
+            "start_year": 2025,
+            "end_year": 2025,
+            "description": "Built and deployed ML models into Flask APIs for real-time inference in production. Assisted in developing supervised learning pipelines for predictive analytics using Python and Scikit-learn. Conducted preprocessing and feature engineering on structured datasets to improve accuracy. Collaborated with senior engineers to test and document ML workflows for deployment."
+        }
+    ],
+    "skills": [
+        "Python",
+        "C",
+        "C++",
+        "JavaScript",
+        "Flask",
+        "FastAPI",
+        "PyTorch",
+        "TensorFlow",
+        "Hugging Face Transformers",
+        "Diffusers",
+        "Phi-3",
+        "LLaMA",
+        "LangChain",
+        "llama-cpp-python",
+        "FAISS",
+        "SentenceTransformers",
+        "YOLOv8",
+        "OpenCV",
+        "ByteTrack",
+        "Optical Flow",
+        "Git",
+        "Docker",
+        "Streamlit",
+        "AWS",
+        "CI/CD (GitHub Actions)",
+        "SerpAPI",
+        "MySQL",
+        "Oracle SQL",
+        "MongoDB"
+    ],
+    "projects": [
+        "QueryVerse Multi-Document RAG Chatbot",
+        "Story2Comic AI Story-to-Comic Generator",
+        "Football Match Analysis System"
+    ],
+    "certifications": [
+        "Machine Learning in Production Coursera",
+        "IBM RAG and Agentic AI",
+        "Generative AI and LLMs"
+    ]
+}
